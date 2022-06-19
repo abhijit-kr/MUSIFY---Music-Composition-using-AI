@@ -1,1 +1,1 @@
-# MUSIFY---Music-Composition-using-AI
+# MUSIFY - Music-Composition-using-AI
